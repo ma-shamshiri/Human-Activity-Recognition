@@ -46,7 +46,9 @@
   <figcaption>Caption goes here</figcaption>
 </p>
 
-<figure align="center">
-  <img src="images/table1.png" alt="Table1: 18 Activities" width="30%" height="30%">        
-  <figcaption>Caption goes here</figcaption>
-</figure>
+<p align="center">
+  <figure align="center">
+    <img src="images/table1.png" alt="Table1: 18 Activities" width="40%" height="40%">        
+    <figcaption>Caption goes here</figcaption>
+  </figure>
+</p>
