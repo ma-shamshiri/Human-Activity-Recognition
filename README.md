@@ -1,8 +1,10 @@
 <h1 align="center"> Human Activity Recognition </h1>
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
+
 </br>
+
 <p align="center"> 
-<img src="images/Signal22.gif" alt="Animated gif">
+  <img src="images/Signal22.gif" alt="Animated gif">
 </p>
 
 <!-- TABLE OF CONTENTS -->
@@ -34,7 +36,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p> 
-This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of different classifiers (Decision Tree, k Nearest Neighbors, Random Forest, SVM and NN) which are trained on the two sets of preprocessed data.
+  This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two
+  different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of
+  different classifiers (Decision Tree, k Nearest Neighbors, Random Forest, SVM and NN) which are trained on the two sets of preprocessed data.
 </p>
 
-<img src="images/table1.png" alt="Table1: 18 Activities">
+<p align="center">
+  <img src="images/table1.png" alt="Table1: 18 Activities">
+</p>
