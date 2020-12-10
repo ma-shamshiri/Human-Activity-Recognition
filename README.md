@@ -1,2 +1,2 @@
 # HR
-HAR
+Human Activity Recognition
