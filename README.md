@@ -46,10 +46,7 @@
   <figcaption>Caption goes here</figcaption>
 </p>
 
-
-<FIGURE align="center">
-
-<IMG SRC="york_images/york_minster.jpg">
+<figure align="center">
   <img src="images/table1.png" alt="Table1: 18 Activities" width="30%" height="30%">        
   <figcaption>Caption goes here</figcaption>
-</FIGURE>
+</figure>
