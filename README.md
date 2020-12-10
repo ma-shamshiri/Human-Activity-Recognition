@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="images/table1.png" alt="Table1: 18 Activities" width="50%" height="50%">                                                      
+  <img src="images/table1.png" alt="Table1: 18 Activities" width="30%" height="30%">                                                      
 </p>
