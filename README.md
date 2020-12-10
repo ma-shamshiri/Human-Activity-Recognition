@@ -2,7 +2,7 @@
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
 </br>
 <p align="center"> 
-<img src="images/Signal2.gif" alt="Animated gif" height="150px" width="700px">
+<img src="images/Signal3.gif" alt="Animated gif" height="150px" width="700px">
 </p>
 
 <!-- TABLE OF CONTENTS -->
