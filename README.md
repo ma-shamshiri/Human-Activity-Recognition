@@ -1,6 +1,6 @@
 <h1 align="center"> Human Activity Recognition </h1>
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
-
+</br>
 <p align="center"> 
 <img src="images/Signal.gif" alt="Animated gif" height="150px" width="700px">
 </p>
