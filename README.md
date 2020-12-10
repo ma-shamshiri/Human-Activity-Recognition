@@ -35,5 +35,6 @@
 ## About The Project
 <p> 
 This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of different classifiers (Decision Tree, k Nearest Neighbors, Random Forest, SVM and NN) which are trained on the two sets of preprocessed data.
-<img src="images/table1.png" alt="Table1: 18 Activities" width="80" height="80">
 </p>
+
+<img src="images/table1.png" alt="Table1: 18 Activities" width="80" height="80">
