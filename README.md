@@ -34,4 +34,4 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-In this project we classify eighteen different human activities like walking, sitting, standing jogging etc., using data obtained from accelerometer and gyroscope sensors from smart phone and smart watch.
+This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of different classifiers (Decision Tree, k Nearest Neighbors, Random Forest, SVM and NN) which are trained on the two sets of preprocessed data.
