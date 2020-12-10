@@ -30,3 +30,8 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+In this project we classify eighteen different human activities like walking, sitting, standing jogging etc., using data obtained from accelerometer and gyroscope sensors from smart phone and smart watch.
