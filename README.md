@@ -1,5 +1,7 @@
-<h1 align="center" ;style="color:blue;"> Human Activity Recognition </h1>
+<h1 align="center" style="color:blue;"> Human Activity Recognition </h1>
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
+
+<h1 style="color:blue;">This is a heading</h1>
 </br>
 <p align="center"> 
 <img src="images/Signal22.gif" alt="Animated gif">
