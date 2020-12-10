@@ -1,4 +1,4 @@
-<h1 align="center"> Human Activity Recognition </h1>
+<h1 align="center" color="blue"> Human Activity Recognition </h1>
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
 </br>
 <p align="center"> 
