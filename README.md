@@ -57,5 +57,5 @@
 
 <figure  text-align="center">
   <img src="images/table1.png" alt="Table1: 18 Activities" width="40%" height="40%">        
-  <figcaption>THE 18 ACTIVIT IES REPRESENTED IN D ATA SET</figcaption>
+  <figcaption align="center">THE 18 ACTIVIT IES REPRESENTED IN D ATA SET</figcaption>
 </figure>
