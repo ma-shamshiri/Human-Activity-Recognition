@@ -82,19 +82,34 @@ The following python packages were used in this project.
     <p>Matthew B. Kennel, Reggie Brown, and Henry D. I. Abarbanel. Determining embedding dimension for phase-space reconstruction using a geometrical construction. Phys. Rev. A, 45:3403–3411, Mar 1992.
     </p>
   </li>
-  <li><p>Wikipedia.org, 'Naive Bayes Classifier'. [Online].</p>
-      <p>Available: https://en.wikipedia.org/wiki/Naive_Bayes_classifier</p>
+  <li>
+    <p>
+      L. M. Seversky, S. Davis, and M. Berger. On time-series topological data analysis: New data and opportunities. In 2016 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), pages 1014–1022, 2016.
+    </p>
   </li>
-  <li><p>Youtube.com, 'Naive Bayes for Spam Detection'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=8aZNAmWKGfs</p>
+  <li>
+    <p>
+      Floris Takens. Detecting strange attractors in turbulence. In David Rand and Lai-Sang Young, editors, Dynamical Systems and Turbulence, Warwick 1980, pages 366–381, Berlin, Heidelberg, 1981. Springer Berlin Heidelberg.
+    </p>
   </li>
-  <li><p>Youtube.com, 'Text Classification Using Naive Bayes'. [Online].</p>
-      <p>Available: https://www.youtube.com/watch?v=EGKeC2S44Rs</p>
+  <li>
+    <p>
+      Guillaume Tauzin, Umberto Lupo, Lewis Tunstall, Julian Burella P´erez, Matteo Caorsi, Anibal Medina-Mardones, Alberto Dassatti, and Kathryn Hess. giotto-tda: A topological data analysis toolkit for machine learning and data exploration, 2020.
+    </p>
   </li>
-  <li><p>Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].</p>
-      <p>Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html</p>
+  <li>
+    <p>
+      G. M. Weiss and A. E. O’Neill. Smartphone and smartwatchbased activity recognition. Jul 2019.
+    </p>
   </li>
-  <li><p>Pythonforengineers.com, 'Build a Spam Filter'. [Online].</p>
-      <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
+  <li>
+    <p>
+      G. M. Weiss, K. Yoneda, and T. Hayajneh. Smartphone and smartwatch-based biometrics using activities of daily living. IEEE Access, 7:133190–133202, 2019.
+    </p>
+  </li>
+  <li>
+    <p>
+      Jian-Bo Yang, Nguyen Nhut, Phyo San, Xiaoli li, and Priyadarsini Shonali. Deep convolutional neural networks on multichannel time series for human activity recognition. IJCAI, 07 2015.
+    </p>
   </li>
 </ul>
