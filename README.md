@@ -78,8 +78,8 @@ The following python packages were used in this project.
 <!-- REFERENCES -->
 <!--## References-->
 
-## References 
-<h2> :books: Refrences</h2>
+
+<h2 id="references"> :books: Refrences</h2>
 <ul>
   <li>
     <p>Matthew B. Kennel, Reggie Brown, and Henry D. I. Abarbanel. Determining embedding dimension for phase-space reconstruction using a geometrical construction. Phys. Rev. A, 45:3403–3411, Mar 1992.
