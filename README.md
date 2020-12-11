@@ -20,11 +20,14 @@
       </ul>
     </li>
     <li>
+      <details open="open">
+        
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
+      </details>
     </li>
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
