@@ -31,7 +31,7 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#references">References</a></li>
   </ol>
 </details>
 
@@ -77,7 +77,7 @@ The following python packages were used in this project.
 </p>
 
 <!-- REFERENCES -->
-## References
+<!--## References-->
 <h2> :books: Refrences</h2>
 <ul>
   <li>
