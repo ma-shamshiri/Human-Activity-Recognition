@@ -26,7 +26,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#dataset">Dataset</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -64,23 +64,9 @@ The following python packages were used in this project.
   ```sh
   npm install npm@latest -g
   ```
-* Matplotlib
-  ```sh
-  npm install npm@latest -g
-  ```
-* TensorFlow
-  ```sh
-  npm install npm@latest -g
-  ```
-* Keras
-  ```sh
-  npm install npm@latest -g
-  ```
-* Scikit-tda
-  ```sh
-  npm install npm@latest -g
-  ```
-* Giotto-tda
-  ```sh
-  npm install npm@latest -g
-  ```
+<!-- DATASET EXAMPLES -->
+## Dataset
+
+Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
