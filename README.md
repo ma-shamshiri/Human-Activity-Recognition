@@ -72,12 +72,12 @@ The following python packages were used in this project.
 </p>
 
 <p align="center">
-  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">        
-  <figcaption>Caption goes here</figcaption>
+  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">
 </p>
 
 <!-- REFERENCES -->
 <!--## References-->
+:books: ## References
 <h2> :books: Refrences</h2>
 <ul>
   <li>
