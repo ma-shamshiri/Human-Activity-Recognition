@@ -63,7 +63,7 @@ The following python packages were used in this project.
   ```sh
   npm install npm@latest -g
   ```
-<!-- DATASET EXAMPLES -->
+<!-- DATASET -->
 ## Dataset
 <p> 
   Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -75,3 +75,28 @@ The following python packages were used in this project.
   <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">        
   <figcaption>Caption goes here</figcaption>
 </p>
+
+<!-- REFERENCES -->
+## References
+<h2> :books: Refrences</h2>
+<ul>
+  <li>
+    <p>Matthew B. Kennel, Reggie Brown, and Henry D. I. Abarbanel. Determining embedding dimension for phase-space reconstruction using a geometrical construction. Phys. Rev. A, 45:3403–3411, Mar 1992.
+    </p>
+  </li>
+  <li><p>Wikipedia.org, 'Naive Bayes Classifier'. [Online].</p>
+      <p>Available: https://en.wikipedia.org/wiki/Naive_Bayes_classifier</p>
+  </li>
+  <li><p>Youtube.com, 'Naive Bayes for Spam Detection'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=8aZNAmWKGfs</p>
+  </li>
+  <li><p>Youtube.com, 'Text Classification Using Naive Bayes'. [Online].</p>
+      <p>Available: https://www.youtube.com/watch?v=EGKeC2S44Rs</p>
+  </li>
+  <li><p>Manisha-sirsat.blogspot.com, 'What is Confusion Matrix and Advanced Classification Metrics?'. [Online].</p>
+      <p>Available: https://manisha-sirsat.blogspot.com/2019/04/confusion-matrix.html</p>
+  </li>
+  <li><p>Pythonforengineers.com, 'Build a Spam Filter'. [Online].</p>
+      <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
+  </li>
+</ul>
