@@ -77,7 +77,8 @@ The following python packages were used in this project.
 
 <!-- REFERENCES -->
 <!--## References-->
-## References :books:
+:books:
+## References 
 <h2> :books: Refrences</h2>
 <ul>
   <li>
