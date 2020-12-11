@@ -41,11 +41,10 @@
   This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two
   different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of
   different classifiers (Decision Tree, k Nearest Neighbors, Random Forest, SVM and CNN) which are trained on the two sets of preprocessed data.
-  The following table shows the 18 activities represented in data set.
 </p>
 
 <p align="center">
-  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">        
+  <img src="images/WISDM Activities.png.png" alt="Table1: 18 Activities" width="40%" height="40%">        
   <figcaption>Caption goes here</figcaption>
 </p>
 
@@ -66,7 +65,13 @@ The following python packages were used in this project.
   ```
 <!-- DATASET EXAMPLES -->
 ## Dataset
+<p> 
+  Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+  _For more examples, please refer to the [Documentation](https://example.com)_
+  The following table shows the 18 activities represented in data set.
+</p>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<p align="center">
+  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">        
+  <figcaption>Caption goes here</figcaption>
+</p>
