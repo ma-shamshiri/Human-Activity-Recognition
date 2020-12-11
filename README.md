@@ -48,3 +48,39 @@
   <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">        
   <figcaption>Caption goes here</figcaption>
 </p>
+
+### Prerequisites
+
+The following python packages were used in this project.
+* Scikit-Learn
+  ```sh
+  npm install npm@latest -g
+  ```
+* Numpy
+  ```sh
+  npm install npm@latest -g
+  ```
+* Pandas
+  ```sh
+  npm install npm@latest -g
+  ```
+* Matplotlib
+  ```sh
+  npm install npm@latest -g
+  ```
+* TensorFlow
+  ```sh
+  npm install npm@latest -g
+  ```
+* Keras
+  ```sh
+  npm install npm@latest -g
+  ```
+* Scikit-tda
+  ```sh
+  npm install npm@latest -g
+  ```
+* Giotto-tda
+  ```sh
+  npm install npm@latest -g
+  ```
