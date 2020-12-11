@@ -64,7 +64,7 @@ The following python packages were used in this project.
   npm install npm@latest -g
   ```
 <!-- DATASET -->
-## Dataset
+<h2 id="dataset"> :books: Dataset</h2>
 <p> 
   Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
   _For more examples, please refer to the [Documentation](https://example.com)_
@@ -76,9 +76,6 @@ The following python packages were used in this project.
 </p>
 
 <!-- REFERENCES -->
-<!--## References-->
-
-
 <h2 id="references"> :books: Refrences</h2>
 <ul>
   <li>
