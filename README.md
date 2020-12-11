@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="50%" height="50%">        
+  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="70%" height="70%">        
   <figcaption>Caption goes here</figcaption>
 </p>
 
@@ -74,7 +74,7 @@ The following python packages were used in this project.
 </p>
 
 <p align="center">
-  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">
+  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="45%" height="45%">
 </p>
 
 <!-- REFERENCES -->
