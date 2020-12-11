@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <img src="images/WISDM Activities.png.png" alt="Table1: 18 Activities" width="40%" height="40%">        
+  <img src="images/WISDM Activities.png" alt="Table1: 18 Activities" width="40%" height="40%">        
   <figcaption>Caption goes here</figcaption>
 </p>
 
