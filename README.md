@@ -44,19 +44,19 @@
 </p>
 
 <p align="center">
-  <img src="images/table1.png" alt="Table1: 18 Activities" width="30%" height="30%">        
+  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="30%" height="30%">        
   <figcaption>Caption goes here</figcaption>
 </p>
 
 <p align="center">
   <figure>
-    <img src="images/table1.png" alt="Table1: 18 Activities" width="40%" height="40%">        
+    <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">        
     <figcaption>The 18 Activities Represented in Data Set</figcaption>
   </figure>
 </p>
 
 <figure  text-align="center">
-  <img src="images/table1.png" alt="Table1: 18 Activities" width="40%" height="40%">
+  <img src="images/activity_table.png" alt="Table1: 18 Activities" width="40%" height="40%">
   <p align="center">
     <figcaption>
       THE 18 ACTIVIT IES REPRESENTED IN D ATA SET
