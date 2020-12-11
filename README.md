@@ -51,11 +51,11 @@
 <p align="center">
   <figure>
     <img src="images/table1.png" alt="Table1: 18 Activities" width="40%" height="40%">        
-    <figcaption>Caption goes here</figcaption>
+    <figcaption>The 18 Activities Represented in Data Set</figcaption>
   </figure>
 </p>
 
 <figure  text-align="center">
   <img src="images/table1.png" alt="Table1: 18 Activities" width="40%" height="40%">        
-  <figcaption>Caption goes here</figcaption>
+  <figcaption>THE 18 ACTIVIT IES REPRESENTED IN D ATA SET</figcaption>
 </figure>
