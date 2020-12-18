@@ -52,6 +52,11 @@
 <!-- BUILT WITH -->
 <h2 id="built-with"> :wrench: Built With</h2>
 
+<p align="justify"> 
+  This project is written in Python programming language.
+  The libraries mentioned in the Introduction section have been used in this project.
+</p>
+
 
 
 <!-- PREREQUISITES -->
