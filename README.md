@@ -4,7 +4,7 @@
 </br>
 
 <p align="center"> 
-  <img src="images/human_activity.gif" alt="human_activity.gif">
+  <img src="images/human_activity.gif" alt="human_activity.gif" width="70%" height="70%">
 </p>
 
 <!-- TABLE OF CONTENTS -->
