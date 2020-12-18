@@ -60,7 +60,7 @@ The following python packages were used in this project.
 * Giotto-tda
 * TensorFlow
 * Keras
-
+✤
   ```sh
   npm install npm@latest -g
   ```
