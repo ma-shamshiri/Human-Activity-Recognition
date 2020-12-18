@@ -70,10 +70,21 @@ The following python packages were used in this project.
 <h2 id="roadmap"> :dart: Roadmap</h2>
 
 <p align="justify"> 
-  Weiss et. al. [1], has trained three models namely Decision Tree, k-Nearest Neighbors, and Random Forest for human activity classification by preprocessing the raw time series data using statistical feature extraction from segmented time series. The goals of this project include the following:
+  Weiss et. al. has trained three models namely Decision Tree, k-Nearest Neighbors, and Random Forest for human activity classification by preprocessing the raw time series data using statistical feature extraction from segmented time series. 
+  The goals of this project include the following:
 <ol>
-  <li><a href="#about-the-project">About The Project</a></li>
-  <li><a href="#prerequisites">Prerequisites</a></li>
+  <li>
+    <p align="justify"> 
+      Train the same models - Decision Tree, k Nearest Neighbors, and Random Forest using the preprocessed data obtained from topological data analysis and compare the
+      performance against the results obtained by Weiss et. al. [1].
+    </p>
+  </li>
+  <li>
+    <p align="justify"> 
+      Train the same models - Decision Tree, k Nearest Neighbors, and Random Forest using the preprocessed data obtained from topological data analysis and compare the
+      performance against the results obtained by Weiss et. al. [1].
+    </p>
+  </li>
 </ol>
 </p>
 
