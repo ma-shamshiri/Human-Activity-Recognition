@@ -36,7 +36,8 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<h2 id="about-the-project"> :pencil: About The Project</h2>
+
 <p align="justify"> 
   This project aims to classify human activities using data obtained from accelerometer and gyroscope sensors from phone and watch. The raw data will be preprocessed using two
   different approaches such as topological data analysis and statistical features extraction from segmented time series. The goal is to compare and evaluate the performance of
