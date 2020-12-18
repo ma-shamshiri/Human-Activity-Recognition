@@ -53,9 +53,13 @@
 
 The following python packages were used in this project.
 ✤
+
 ✤ Numpy
+
 ✤ Pandas
+
 ✤ Matplotlib
+
 ✤ Scikit-Learn
 * Numpy
 * Pandas
