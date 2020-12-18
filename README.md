@@ -52,17 +52,6 @@ The following python packages were used in this project.
 * TensorFlow
 * Keras
 
-  ```sh
-  npm install npm@latest -g
-  ```
-* Numpy
-  ```sh
-  npm install npm@latest -g
-  ```
-* Pandas
-  ```sh
-  npm install npm@latest -g
-  ```
 <!-- DATASET -->
 <h2 id="dataset"> :floppy_disk: Dataset</h2>
 <p> 
@@ -75,6 +64,17 @@ The following python packages were used in this project.
 
 <p align="center">
   <img src="images/activity_table.png" alt="Table1: 18 Activities" width="45%" height="45%">
+</p>
+
+<!-- ROADMAP -->
+<h2 id="roadmap"> :dart: Roadmap</h2>
+
+<p align="justify"> 
+  Weiss et. al. [1], has trained three models namely Decision Tree, k-Nearest Neighbors, and Random Forest for human activity classification by preprocessing the raw time series data using statistical feature extraction from segmented time series. The goals of this project include the following:
+<ol>
+  <li><a href="#about-the-project">About The Project</a></li>
+  <li><a href="#prerequisites">Prerequisites</a></li>
+</ol>
 </p>
 
 <!-- REFERENCES -->
