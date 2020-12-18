@@ -49,7 +49,7 @@
 </p>
 
 <!-- PREREQUISITES -->
-<h2 id="prerequisites"> :books: Prerequisites</h2>
+<h2 id="prerequisites"> :pencil: Prerequisites</h2>
 ### Prerequisites
 
 The following python packages were used in this project.
