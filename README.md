@@ -76,13 +76,13 @@ The following python packages were used in this project.
   <li>
     <p align="justify"> 
       Train the same models - Decision Tree, k Nearest Neighbors, and Random Forest using the preprocessed data obtained from topological data analysis and compare the
-      performance against the results obtained by Weiss et. al. [1].
+      performance against the results obtained by Weiss et. al.
     </p>
   </li>
   <li>
     <p align="justify"> 
       Train the same models - Decision Tree, k Nearest Neighbors, and Random Forest using the preprocessed data obtained from topological data analysis and compare the
-      performance against the results obtained by Weiss et. al. [1].
+      performance against the results obtained by Weiss et. al.
     </p>
   </li>
 </ol>
