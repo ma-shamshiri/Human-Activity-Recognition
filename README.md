@@ -50,7 +50,6 @@
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :pencil: Prerequisites</h2>
-### Prerequisites
 
 The following python packages were used in this project.
 * Numpy
