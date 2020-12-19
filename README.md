@@ -136,9 +136,8 @@ The following python packages were used in this project.
 <h2 id="contributors"> :scroll: Contributors</h2>
 
 <p>
-  :woman: Divya Bhagavathiappan Shiva
-  
-  :email: <a href="divya.bhagavathiappanshiva@mail.concordia.ca">divya.bhagavathiappanshiva@mail.concordia.ca</a>
+                   :woman: Divya Bhagavathiappan Shiva
+    
   :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
   
   :woman: Reethu Navale
