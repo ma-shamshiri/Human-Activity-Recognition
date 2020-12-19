@@ -61,9 +61,7 @@ The following python packages were used in this project.
  _The WISDM dataset is publicly available. Please refer to the [Link](https://archive.ics.uci.edu/ml/datasets/WISDM+Smartphone+and+Smartwatch+Activity+and+Biometrics+Dataset+)_ 
 
 <p align="center">
-  sdfsdfsdfsdfsdfskdfjhsdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh
-    <img src="images/human_activity2.gif" alt="human_activity.gif" width="40%" height="40%">
-  sdfsdfsdfsdfsdfskdfj sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjhsdfsdfsdfsdfsdfskdfjh
+  <img src="images/human_activity2.gif" alt="human_activity.gif" display="inline-block" width="40%" height="40%">
 </p>
  
   The following table shows the 18 activities represented in data set.
