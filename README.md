@@ -121,11 +121,17 @@ All these three approaches used windowing technique to segment the raw time seri
 <!-- PRE-PROCESSED DATA -->
 <h2 id="preprocessed-data"> :pencil: Pre-processed data</h2>
 
+<p align="justify"> 
+  Weiss et.al used windowing technique with window size of 10 seconds to extract statistical features. They extracted 93 features out of which 43 were used to train their models. We also used the same 43 features to train our SVM and CNN. The 43 features are 1. average sensor value 2. standard deviation 3. absolute difference 4. average resultant acceleration 5. Binned distribution (10 equal sized bins per axis) and 5. time between peaks, for each axis.
+</p>
 
 <!-- STATISTICAL FEATURE -->
 <h2 id="statistical-feature"> :pencil: Statistical feature</h2>
 
-
+<p align="justify"> 
+  For this approach, we segmented the dataset using 10 second window size (200 datapoints) with no overlapping. We decided to keep the window size same as whatWeiss et.al. applied in their study, for the sake of comparison. After segmentation, for each segment we calculated eight statistical features, namely, ‘min’, ‘max’, ‘mean’, ‘standard deviation’, ‘median’, ‘variance’, ‘zero crossing’ and ‘mean crossing’, for each axes. The zero and mean crossing features are calculated by counting the rate of when a signal passes line y=0 (if we let y-axis to be the specific measurement and x-axis to represent time) and the frequency at which the signal passes the line y = mean(signal), respectively. However, these two features did not show a significant difference between different activities, so we decided to ignore them.
+</p>
+  
 <!-- TOPOLOGICAL FEATURE -->
 <h2 id="topological-feature"> :pencil: Topological feature</h2>
 
