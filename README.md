@@ -29,8 +29,6 @@
     <li><a href="#results-and-discussion">Results and Discussion</a></li>
     <li><a href="#references">References</a></li>
     <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
