@@ -133,12 +133,14 @@ The following python packages were used in this project.
 </ul>
 
 <!-- CONTRIBUTORS -->
-<h2 id="contributors"> :floppy_disk: Contributors</h2>
+<h2 id="contributors"> :scroll: Contributors</h2>
 
-:woman: Divya Bhagavathiappan Shiva
-
-:woman: Reethu Navale
-
-:woman: Mahsa Sadat Afzali Arani
-
-:boy: Mohammad Amin Shamshiri
+<p>
+  :woman: Divya Bhagavathiappan Shiva
+  
+  :woman: Reethu Navale
+  
+  :woman: Mahsa Sadat Afzali Arani
+  
+  :boy: Mohammad Amin Shamshiri
+</p>
