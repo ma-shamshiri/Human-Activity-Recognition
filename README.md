@@ -62,7 +62,7 @@ The following python packages were used in this project.
 
 <p align="center">
   sdfsdfsdfsdfsdfskdfjhsdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh
-    <img src="images/human_activity2.gif" alt="human_activity.gif" display="inline-block" width="40%" height="40%">
+    <img src="images/human_activity2.gif" alt="human_activity.gif" width="40%" height="40%">
   sdfsdfsdfsdfsdfskdfj sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjh sdfsdfsdfsdfsdfskdfjhsdfsdfsdfsdfsdfskdfjh
 </p>
  
