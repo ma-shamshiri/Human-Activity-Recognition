@@ -139,6 +139,7 @@ The following python packages were used in this project.
   :woman: Divya Bhagavathiappan Shiva
   
   :email: <a href="divya.bhagavathiappanshiva@mail.concordia.ca">divya.bhagavathiappanshiva@mail.concordia.ca</a>
+  :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
   
   :woman: Reethu Navale
   
