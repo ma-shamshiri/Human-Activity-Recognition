@@ -139,7 +139,7 @@ All these three approaches used windowing technique to segment the raw time seri
 </p>
 
 <!-- RESULTS AND DISCUSSION -->
-<h2 id="results-and-discussion"> :books: Results and Discussion</h2>
+<h2 id="results-and-discussion"> :microscope: Results and Discussion</h2>
 
 <p align="justify">
   The overall accuracy score of personal and impersonal models are shown in Table 3 and 4. Some of the results we observed are similar to the results obtained by Weiss et.al and they are discussed below: <br>
