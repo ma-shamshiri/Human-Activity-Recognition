@@ -20,6 +20,7 @@
     <li>
       <a href="#preprocessing">Preprocessing</a>
       <ul>
+        <li><a href="#preprocessed-data">Pre-processed data</a></li>
         <li><a href="#statistical-feature">Statistical feature</a></li>
         <li><a href="#topological-feature">Topological feature</a></li>
       </ul>
@@ -117,6 +118,8 @@ All these three approaches used windowing technique to segment the raw time seri
 </p>
 
 
+<!-- PRE-PROCESSED DATA -->
+<h2 id="preprocessed-data"> :pencil: Pre-processed data</h2>
 
 
 <!-- STATISTICAL FEATURE -->
