@@ -146,6 +146,7 @@ All these three approaches used windowing technique to segment the raw time seri
 <p align="justify">
   The overall accuracy score of personal and impersonal models are shown in Table 3 and 4. Some of the results we observed are similar to the results obtained by Weiss et.al and they are discussed below: <br>
 </p>
+<p align="justify">
 <ul>
   <li>
     Since accelerometers senses acceleration based on vibration which can be more prominent during an activity and gyroscope only senses rotational changes, accelerometers outperformed gyroscope in all our models. <br>
@@ -160,7 +161,7 @@ All these three approaches used windowing technique to segment the raw time seri
     CNN trained on raw sensor data performed better for personal models, however it performed poorly on impersonal models.
   </li>
 </ul>
-
+</p>
 <!-- REFERENCES -->
 <h2 id="references"> :books: Refrences</h2>
 
