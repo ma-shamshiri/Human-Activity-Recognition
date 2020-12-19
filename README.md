@@ -136,6 +136,9 @@ The following python packages were used in this project.
 <h2 id="contributors"> :scroll: Contributors</h2>
 
 <p>
+  This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">@Concordia University</a> <br>
+  
+  
   :woman: <b>Divya Bhagavathiappan Shiva</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/divyabhagavathiappan">@divyabhagavathiappan</a> <br>
