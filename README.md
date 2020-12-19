@@ -144,7 +144,7 @@ All these three approaches used windowing technique to segment the raw time seri
 <h2 id="results-and-discussion"> :books: Results and Discussion</h2>
 
 <p align="justify">
-  <ol>
+  <ul>
     <li>
       The overall accuracy score of personal and impersonal models are shown in Table 3 and 4. Some of the results we observed are similar to the results obtained by Weiss et.al and they are discussed below: <br>
     </li>
@@ -164,6 +164,7 @@ All these three approaches used windowing technique to segment the raw time seri
     <li>
       CNN trained on raw sensor data performed better for personal models, however it performed poorly on impersonal models.
     </li>
+  </ul>
 </p>
 
 <!-- REFERENCES -->
