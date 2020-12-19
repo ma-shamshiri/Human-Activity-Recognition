@@ -135,10 +135,10 @@ The following python packages were used in this project.
 <!-- CONTRIBUTORS -->
 <h2 id="contributors"> :floppy_disk: Contributors</h2>
 
-:woman: sdfsdf
+:woman: Divya Bhagavathiappan Shiva
 
-:woman: sdfsdf
+:woman: Reethu Navale
 
-:woman: sdfsfd
+:woman: Mahsa Sadat Afzali Arani
 
-:boy: sfsdf
+:boy: Mohammad Amin Shamshiri
