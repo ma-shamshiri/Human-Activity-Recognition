@@ -138,6 +138,10 @@ All these three approaches used windowing technique to segment the raw time seri
   Since time series sensor data obtained from performing an activity may have topological properties, we tried extracting features using the topology of the data and perform the classification task on those features. For a given time segment we explore the topology of each segment using persistence diagram generated via persistence homology. Persistent homology can be created through filtrations such as Vietoris- Rips, SparseRips, Cubical Persistence etc., on the data and capture the growth, birth, and death of different topological features across dimensions (e.g., components, tunnels, voids) [2]. One of the main challenges in computing the persistent homology is finding the appropriate filtration for the time segments. In total 18 topological features where extracted for each time segment.
 </p>
 
+<!-- EXPERIMENTS -->
+<h2 id="experiments"> :mag: Experiments</h2>
+
+
 <!-- RESULTS AND DISCUSSION -->
 <h2 id="results-and-discussion"> :mag: Results and Discussion</h2>
 
