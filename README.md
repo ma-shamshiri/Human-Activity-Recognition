@@ -17,10 +17,10 @@
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
     <li><a href="#references">References</a></li>
     <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
