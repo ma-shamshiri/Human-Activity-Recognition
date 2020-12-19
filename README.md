@@ -140,15 +140,15 @@ The following python packages were used in this project.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/divyabhagavathiappan">@divyabhagavathiappan</a> <br>
   
-  :woman: Reethu Navale <br>
+  :woman: <b>Reethu Navale</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>reethu.navale@mail.concordia.ca</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/reethunavale">@reethunavale</a> <br>
 
-  :woman: Mahsa Sadat Afzali Arani <br>
+  :woman: <b>Mahsa Sadat Afzali Arani</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mahsasadat.afzaliarani@mail.concordia.ca</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/MahsaAfzali">@MahsaAfzali</a> <br>
 
-  :boy: Mohammad Amin Shamshiri <br>
+  :boy: <b>Mohammad Amin Shamshiri</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mohammadamin.shamshiri@mail.concordia.ca</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ma-shamshiri">@ma-shamshiri</a> <br>
 </p>
