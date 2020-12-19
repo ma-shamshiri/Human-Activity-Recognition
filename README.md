@@ -134,3 +134,8 @@ The following python packages were used in this project.
 
 <!-- CONTRIBUTORS -->
 <h2 id="contributors"> :floppy_disk: Contributors</h2>
+
+:girl:
+:girl:
+:girl:
+:boy:
