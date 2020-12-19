@@ -17,6 +17,13 @@
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li>
+      <a href="#preprocessing">Preprocessing</a>
+      <ul>
+        <li><a href="#statistical-feature">Statistical feature</a></li>
+        <li><a href="#topological-feature">Topological feature</a></li>
+      </ul>
+    </li>
     <li><a href="#references">References</a></li>
     <li><a href="#contributors">Contributors</a></li>
     <li><a href="#contact">Contact</a></li>
