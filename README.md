@@ -112,7 +112,7 @@ The following python packages were used in this project.
     <li><b>Topological feature extraction</b></li>
   </ol>
   
-All these three approaches used windowing technique to segment the raw time series and extract features from each segment. <br>
+All these three approaches used windowing technique to segment the raw time series and extract features from each segment. <br> <br>
 <b>Windowing technique</b>: A single input from time series data is meaningless, however, a consecutive subset of data points in a signal is equivalent to a specific duration in time and it carries information. Sliding window technique is commonly used in timeseries data to generate data points. Using this technique the raw data is split into segments of size x and stride x to avoid overlaps. The choice of window size is important as different size can carry varying amounts of information.
 </p>
 
