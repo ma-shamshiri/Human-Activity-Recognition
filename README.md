@@ -126,14 +126,14 @@ All these three approaches used windowing technique to segment the raw time seri
 </p>
 
 <!-- STATISTICAL FEATURE -->
-<h2 id="statistical-feature"> :small_orange_diamond: Statistical feature</h2>
+<h2 id="statistical-feature"> :large_orange_diamond: Statistical feature</h2>
 
 <p align="justify"> 
   For this approach, we segmented the dataset using 10 second window size (200 datapoints) with no overlapping. We decided to keep the window size same as whatWeiss et.al. applied in their study, for the sake of comparison. After segmentation, for each segment we calculated eight statistical features, namely, ‘min’, ‘max’, ‘mean’, ‘standard deviation’, ‘median’, ‘variance’, ‘zero crossing’ and ‘mean crossing’, for each axes. The zero and mean crossing features are calculated by counting the rate of when a signal passes line y=0 (if we let y-axis to be the specific measurement and x-axis to represent time) and the frequency at which the signal passes the line y = mean(signal), respectively. However, these two features did not show a significant difference between different activities, so we decided to ignore them.
 </p>
   
 <!-- TOPOLOGICAL FEATURE -->
-<h2 id="topological-feature"> :small_blue_diamond: Topological feature</h2>
+<h2 id="topological-feature"> :large_blue_diamond: Topological feature</h2>
 
 
 
