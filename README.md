@@ -136,24 +136,19 @@ The following python packages were used in this project.
 <h2 id="contributors"> :scroll: Contributors</h2>
 
 <p>
-  :woman: Divya Bhagavathiappan Shiva
-    
-  &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/divyabhagavathiappan">Go to GitHub</a>
-https://github.com/reethunavale
+  :woman: Divya Bhagavathiappan Shiva <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/divyabhagavathiappan">Here</a> <br>
+  
+  :woman: Reethu Navale <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>reethu.navale@mail.concordia.ca</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/reethunavale">Here</a> <br>
 
-https://github.com/MahsaAfzali
-https://github.com/ma-shamshiri
-  
-  :woman: Reethu Navale
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
+  :woman: Mahsa Sadat Afzali Arani <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mahsasadat.afzaliarani@mail.concordia.ca</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/MahsaAfzali">Here</a> <br>
 
-  :woman: Mahsa Sadat Afzali Arani
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
-
-  :boy: Mohammad Amin Shamshiri
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
+  :boy: Mohammad Amin Shamshiri <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mohammadamin.shamshiri@mail.concordia.ca</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ma-shamshiri">Here</a> <br>
 </p>
