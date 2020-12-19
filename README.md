@@ -138,7 +138,7 @@ The following python packages were used in this project.
 <p>
   :woman: Divya Bhagavathiappan Shiva
     
-  &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
+  &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a> <br>
   &nbsp;&nbsp;&nbsp;&nbsp; Email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
 
   
