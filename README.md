@@ -136,13 +136,19 @@ The following python packages were used in this project.
 <h2 id="contributors"> :scroll: Contributors</h2>
 
 <p>
-      &nbsp;             :woman: Divya Bhagavathiappan Shiva
+  :woman: Divya Bhagavathiappan Shiva
     
-  :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
+  &nbsp;&nbsp;&nbsp;&nbsp; :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
   
   :woman: Reethu Navale
   
+  &nbsp;&nbsp;&nbsp;&nbsp; :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
+
   :woman: Mahsa Sadat Afzali Arani
   
+  &nbsp;&nbsp;&nbsp;&nbsp; :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
+
   :boy: Mohammad Amin Shamshiri
+  
+  &nbsp;&nbsp;&nbsp;&nbsp; :email: <a>divya.bhagavathiappanshiva@mail.concordia.ca</a>
 </p>
