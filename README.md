@@ -139,7 +139,10 @@ All these three approaches used windowing technique to segment the raw time seri
 </p>
 
 <!-- EXPERIMENTS -->
-<h2 id="experiments"> :mag: Experiments</h2>
+<h2 id="experiments"> :microscope: Experiments</h2>
+
+
+
 
 
 <!-- RESULTS AND DISCUSSION -->
