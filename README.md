@@ -143,12 +143,27 @@ All these three approaches used windowing technique to segment the raw time seri
 <!-- RESULTS AND DISCUSSION -->
 <h2 id="results-and-discussion"> :books: Results and Discussion</h2>
 
-<p align="justify"> 
-  The overall accuracy score of personal and impersonal models are shown in Table 3 and 4. Some of the results we observed are similar to the results obtained by Weiss et.al and they are discussed below: <br>
-  Since accelerometers senses acceleration based on vibration which can be more prominent during an activity and gyroscope only senses rotational changes, accelerometers outperformed gyroscope in all our models. <br>
-  As the style of performing an activity differs from each person, it is difficult to aggregate those features among all subjects. So our personal models vastly outperformed our impersonal models. <br>
-  It is also observed that non hand-oriented activities are classified better with sensors from smartphone and handoriented activities are classified better with sensors from smartwatch. Refer appendix for activity wise recall scores. Some key take-aways based on our results are listed below: <br>
-  CNN trained on raw sensor data performed better for personal models, however it performed poorly on impersonal models.
+<p align="justify">
+  <ol>
+    <li>
+      The overall accuracy score of personal and impersonal models are shown in Table 3 and 4. Some of the results we observed are similar to the results obtained by Weiss et.al and they are discussed below: <br>
+    </li>
+    
+    <li>
+      Since accelerometers senses acceleration based on vibration which can be more prominent during an activity and gyroscope only senses rotational changes, accelerometers outperformed gyroscope in all our models. <br>
+    </li>
+    
+    <li>
+      As the style of performing an activity differs from each person, it is difficult to aggregate those features among all subjects. So our personal models vastly outperformed our impersonal models. <br>
+    </li>
+    
+    <li>
+      It is also observed that non hand-oriented activities are classified better with sensors from smartphone and handoriented activities are classified better with sensors from smartwatch. Refer appendix for activity wise recall scores. Some key take-aways based on our results are listed below: <br>
+    </li>
+    
+    <li>
+      CNN trained on raw sensor data performed better for personal models, however it performed poorly on impersonal models.
+    </li>
 </p>
 
 <!-- REFERENCES -->
