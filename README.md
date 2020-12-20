@@ -25,7 +25,7 @@
         <li><a href="#topological-feature">Topological feature</a></li>
       </ul>
     </li>
-    <li><a href="#experiments">Experiments</a></li>
+    <!--<li><a href="#experiments">Experiments</a></li>-->
     <li><a href="#results-and-discussion">Results and Discussion</a></li>
     <li><a href="#references">References</a></li>
     <li><a href="#contributors">Contributors</a></li>
@@ -139,7 +139,7 @@ All these three approaches used windowing technique to segment the raw time seri
 </p>
 
 <!-- EXPERIMENTS -->
-<h2 id="experiments"> :microscope: Experiments</h2>
+<!--<h2 id="experiments"> :microscope: Experiments</h2>-->
 
 
 
