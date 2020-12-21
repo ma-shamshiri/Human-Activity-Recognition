@@ -100,7 +100,7 @@ The following python packages were used in this project.
 </p>
 
 <!-- PREPROCESSING -->
-<h2 id="preprocessing"> :pencil: Preprocessing</h2>
+<h2 id="preprocessing"> :hammer: Preprocessing</h2>
 
 <p align="justify"> 
   The WISDM (Wireless Sensor Data Mining) dataset includes raw time-series data collected from accelerometer and gyroscope sensors of a smartphone and smartwatch with their corresponding labels for each activity. The sensor data was collected at a rate of 20 Hz (i.e., every 50ms). Weiss et.al., collected this dataset from 51 subjects who performed 18 different activities listed in the previous table, each for 3 minutes, while having the smartphone in their right pant pocket and wearing the smartwatch in their dominant hand. <br>
