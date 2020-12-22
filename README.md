@@ -100,6 +100,7 @@ The following python packages are used in this project:
     │        ├── watch
     │            ├── accel
     │            └── gyro
+    │
     ├── CNN_Impersonal_TransformedData.ipynb
     ├── CNN_Personal_TransformedData.ipynb  
     ├── CNN_Impersonal_RawData.ipynb    
