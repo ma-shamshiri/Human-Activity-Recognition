@@ -49,8 +49,8 @@
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
 
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 
 <!--This project is written in Python programming language. <br>-->
 The following python packages are used in this project:
@@ -62,6 +62,7 @@ The following python packages are used in this project:
 * Giotto-tda
 * TensorFlow
 * Keras
+
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
 <h2 id="folder-structure"> :cactus: Folder Structure</h2>
@@ -109,7 +110,6 @@ The following python packages are used in this project:
     ├── Classifier_SVM_Impersonal.ipynb
     ├── statistical_analysis_time_domain.py
     ├── Topological data analysis.ipynb  
-
 
 <!-- DATASET -->
 <h2 id="dataset"> :floppy_disk: Dataset</h2>
@@ -192,8 +192,6 @@ All these three approaches used windowing technique to segment the raw time seri
 
 <!-- EXPERIMENTS -->
 <!--<h2 id="experiments"> :microscope: Experiments</h2>-->
-
-
 
 
 
