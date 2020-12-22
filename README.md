@@ -236,32 +236,32 @@ All these three approaches used windowing technique to segment the raw time seri
 <br>
 ✤ <i>This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i>
 
-data
-.
-│----- raw_data
-│       |----- phone
-│       |      ├── accel
-│       |      └── gyro
-│       |
-│       |----- watch
-│              ├── accel
-│              └── gyro            
-│
-│----- transformed_data
-│       |----- phone
-│       |      ├── accel
-│       |      └── gyro
-│       |
-│       |----- watch
-│              ├── accel
-│              └── gyro       
-│----- feature_label_tables
-         |
-         |----- feature_phone_accel
-         |----- feature_phone_gyro
-         |----- feature_watch_accel
-         |-----feature_watch_gyro
-         
+    data
+    .
+    │----- raw_data
+    │       |----- phone
+    │       |      ├── accel
+    │       |      └── gyro
+    │       |
+    │       |----- watch
+    │              ├── accel
+    │              └── gyro            
+    │
+    │----- transformed_data
+    │       |----- phone
+    │       |      ├── accel
+    │       |      └── gyro
+    │       |
+    │       |----- watch
+    │              ├── accel
+    │              └── gyro       
+    │----- feature_label_tables
+             |
+             |----- feature_phone_accel
+             |----- feature_phone_gyro
+             |----- feature_watch_accel
+             |-----feature_watch_gyro
+             
 ### A typical top-level directory layout
 
     .
