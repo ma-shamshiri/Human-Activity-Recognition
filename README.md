@@ -62,6 +62,52 @@ The following python packages are used in this project.
 * TensorFlow
 * Keras
 
+code
+    .
+    │
+    ├── data
+    │   ├── raw_data
+    │   │   ├── phone
+    │   │   │   ├── accel
+    │   │   │   └── gyro
+    │   │   ├── watch
+    │   │       ├── accel
+    │   │       └── gyro
+    │   │
+    │   ├── transformed_data
+    │   │   ├── phone
+    │   │   │   ├── accel
+    │   │   │   └── gyro
+    │   │   ├── watch
+    │   │       ├── accel
+    │   │       └── gyro
+    │   │
+    │   ├── feature_label_tables
+    │   │    ├── feature_phone_accel
+    │   │    ├── feature_phone_gyro
+    │   │    ├── feature_watch_accel
+    │   │    ├── feature_watch_gyro
+    │   │
+    │   ├── wisdm-dataset
+    │        ├── raw
+    │        │   ├── phone
+    │        │   ├── accel
+    │        │   └── gyro
+    │        ├── watch
+    │            ├── accel
+    │            └── gyro
+    ├── CNN_Impersonal_TransformedData.ipynb
+    ├── CNN_Personal_TransformedData.ipynb  
+    ├── CNN_Impersonal_RawData.ipynb    
+    ├── CNN_Personal_RawData.ipynb 
+    ├── Classifier_SVM_Personal.ipynb
+    ├── Classifier_SVM_Impersonal.ipynb
+    ├── statistical_analysis_time_domain.py
+    ├── Topological data analysis.ipynb  
+
+
+
+
 <!-- DATASET -->
 <h2 id="dataset"> :floppy_disk: Dataset</h2>
 <p> 
@@ -235,96 +281,3 @@ All these three approaches used windowing technique to segment the raw time seri
 
 <br>
 ✤ <i>This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i>
-
-    data
-    .
-    │----- raw_data
-    │       |----- phone
-    │       |      ├── accel
-    │       |      └── gyro
-    │       |
-    │       |----- watch
-    │              ├── accel
-    │              └── gyro            
-    │
-    │----- transformed_data
-    │       |----- phone
-    │       |      ├── accel
-    │       |      └── gyro
-    │       |
-    │       |----- watch
-    │              ├── accel
-    │              └── gyro       
-    │----- feature_label_tables
-             |
-             |----- feature_phone_accel
-             |----- feature_phone_gyro
-             |----- feature_watch_accel
-             |-----feature_watch_gyro
-   
-   
-    code
-    .
-    │
-    ├── data
-    │   ├── raw_data
-    │   │   ├── phone
-    │   │   │   ├── accel
-    │   │   │   └── gyro
-    │   │   ├── watch
-    │   │       ├── accel
-    │   │       └── gyro
-    │   │
-    │   ├── transformed_data
-    │   │   ├── phone
-    │   │   │   ├── accel
-    │   │   │   └── gyro
-    │   │   ├── watch
-    │   │       ├── accel
-    │   │       └── gyro
-    │   │
-    │   ├── feature_label_tables
-    │   │    ├── feature_phone_accel
-    │   │    ├── feature_phone_gyro
-    │   │    ├── feature_watch_accel
-    │   │    ├── feature_watch_gyro
-    │   │
-    │   ├── wisdm-dataset
-    │        ├── raw
-    │        │   ├── phone
-    │        │   ├── accel
-    │        │   └── gyro
-    │        ├── watch
-    │            ├── accel
-    │            └── gyro
-    ├── CNN_Impersonal_TransformedData.ipynb
-    ├── CNN_Personal_TransformedData.ipynb  
-    ├── CNN_Impersonal_RawData.ipynb    
-    ├── CNN_Personal_RawData.ipynb 
-    ├── Classifier_SVM_Personal.ipynb
-    ├── Classifier_SVM_Impersonal.ipynb
-    ├── statistical_analysis_time_domain.py
-    ├── Topological data analysis.ipynb  
-               
-### A typical top-level directory layout
-
-    .
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md
-
-> Use short lowercase names at least for the top-level files and folders except
-> `LICENSE`, `README.md`
-
-├── build                   # Compiled files (alternatively `dist`)
-├── docs                    # Documentation files (alternatively `doc`)
-├── src                     # Source files (alternatively `lib` or `app`)
-├── test                    # Automated tests (alternatively `spec` or `tests`)
-├── tools                   # Tools and utilities
-├── LICENSE
-└── README.md
-
