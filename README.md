@@ -47,7 +47,7 @@
 </p>
 
 <!-- PREREQUISITES -->
-<h2 id="prerequisites"> :pencil: Prerequisites</h2>
+<h2 id="prerequisites"> :page_with_curl: Prerequisites</h2>
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
