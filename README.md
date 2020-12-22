@@ -237,6 +237,7 @@ All these three approaches used windowing technique to segment the raw time seri
 ✤ <i>This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i>
 
 data
+.
 │----- raw_data
 │       |----- phone
 │       |      ├── accel
