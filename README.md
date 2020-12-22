@@ -64,7 +64,7 @@ The following python packages are used in this project:
 * Keras
 
 <!-- FOLDER STRUCTURE -->
-<h2 id="folder-structure"> :pencil: Folder Structure</h2>
+<h2 id="folder-structure"> :paw_prints: Folder Structure</h2>
 
     code
     .
