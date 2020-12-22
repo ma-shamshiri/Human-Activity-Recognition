@@ -62,9 +62,9 @@ The following python packages are used in this project:
 * Giotto-tda
 * TensorFlow
 * Keras
-
+<!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
-<h2 id="folder-structure"> :paw_prints: Folder Structure</h2>
+<h2 id="folder-structure"> :palm_tree: Folder Structure</h2>
 
     code
     .
