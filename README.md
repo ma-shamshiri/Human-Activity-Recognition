@@ -261,7 +261,51 @@ All these three approaches used windowing technique to segment the raw time seri
              |----- feature_phone_gyro
              |----- feature_watch_accel
              |-----feature_watch_gyro
-             
+   
+   
+    code
+    .
+    │
+    ├── data
+    │   ├── raw_data
+    │   │   ├── phone
+    │   │   │   ├── accel
+    │   │   │   └── gyro
+    │   │   ├── watch
+    │   │       ├── accel
+    │   │       └── gyro
+    │   │
+    │   ├── transformed_data
+    │   │   ├── phone
+    │   │   │   ├── accel
+    │   │   │   └── gyro
+    │   │   ├── watch
+    │   │       ├── accel
+    │   │       └── gyro
+    │   │
+    │   ├── feature_label_tables
+    │   │    ├── feature_phone_accel
+    │   │    ├── feature_phone_gyro
+    │   │    ├── feature_watch_accel
+    │   │    ├── feature_watch_gyro
+    │   │
+    │   ├── wisdm-dataset
+    │        ├── raw
+    │        │   ├── phone
+    │        │   ├── accel
+    │        │   └── gyro
+    │        ├── watch
+    │            ├── accel
+    │            └── gyro
+    ├── CNN_Impersonal_TransformedData.ipynb
+    ├── CNN_Personal_TransformedData.ipynb  
+    ├── CNN_Impersonal_RawData.ipynb    
+    ├── CNN_Personal_RawData.ipynb 
+    ├── Classifier_SVM_Personal.ipynb
+    ├── Classifier_SVM_Impersonal.ipynb
+    ├── statistical_analysis_time_domain.py
+    ├── Topological data analysis.ipynb  
+               
 ### A typical top-level directory layout
 
     .
