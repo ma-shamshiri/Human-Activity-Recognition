@@ -53,7 +53,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) <br>
 
 <!--This project is written in Python programming language. <br>-->
-The following python packages are used in this project.
+The following python packages are used in this project:
 * Numpy
 * Pandas
 * Matplotlib
@@ -63,8 +63,9 @@ The following python packages are used in this project.
 * TensorFlow
 * Keras
 
-    
-    
+<!-- FOLDER STRUCTURE -->
+<h2 id="folder-structure"> :pencil: Folder Structure</h2>
+
     code
     .
     │
@@ -107,8 +108,6 @@ The following python packages are used in this project.
     ├── Classifier_SVM_Impersonal.ipynb
     ├── statistical_analysis_time_domain.py
     ├── Topological data analysis.ipynb  
-
-
 
 
 <!-- DATASET -->
