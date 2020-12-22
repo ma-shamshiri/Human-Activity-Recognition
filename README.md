@@ -15,6 +15,7 @@
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#folder-structure">Folder Structure</a></li>
     <li><a href="#dataset">Dataset</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li>
