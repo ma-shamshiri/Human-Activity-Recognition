@@ -278,9 +278,10 @@ All these three approaches used windowing technique to segment the raw time seri
   :boy: <b>Mohammad Amin Shamshiri</b> <br>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mohammadamin.shamshiri@mail.concordia.ca</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: [![Website](https://img.shields.io/website?label=ma-shamshiri&style=plastic&up_message=-%3E&url=https%3A%2F%2Fwww.google.com)(https://github.com/ma-shamshiri)] <a href="https://github.com/ma-shamshiri">@ma-shamshiri</a> <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ma-shamshiri">@ma-shamshiri</a> <br>
 </p>
 
 <br>
 ✤ <i>This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i>
-  [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
+[![Website](https://img.shields.io/website?label=ma-shamshiri&style=plastic&up_message=-%3E&url=https%3A%2F%2Fwww.google.com)](https://github.com/ma-shamshiri">@ma-shamshiri)
