@@ -13,13 +13,13 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    ➤ <li><a href="#about-the-project"> ➤ About The Project</a></li>
-    <li><a href="#prerequisites">Prerequisites</a></li>
-    <li><a href="#folder-structure">Folder Structure</a></li>
-    <li><a href="#dataset">Dataset</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#about-the-project"> ➤ About The Project</a></li>
+    <li><a href="#prerequisites"> ➤ Prerequisites</a></li>
+    <li><a href="#folder-structure"> ➤ Folder Structure</a></li>
+    <li><a href="#dataset"> ➤ Dataset</a></li>
+    <li><a href="#roadmap"> ➤ Roadmap</a></li>
     <li>
-      <a href="#preprocessing">Preprocessing</a>
+      <a href="#preprocessing"> ➤ Preprocessing</a>
       <ul>
         <li><a href="#preprocessed-data">Pre-processed data</a></li>
         <li><a href="#statistical-feature">Statistical feature</a></li>
@@ -27,9 +27,9 @@
       </ul>
     </li>
     <!--<li><a href="#experiments">Experiments</a></li>-->
-    <li><a href="#results-and-discussion">Results and Discussion</a></li>
-    <li><a href="#references">References</a></li>
-    <li><a href="#contributors">Contributors</a></li>
+    <li><a href="#results-and-discussion"> ➤ Results and Discussion</a></li>
+    <li><a href="#references"> ➤ References</a></li>
+    <li><a href="#contributors"> ➤ Contributors</a></li>
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
