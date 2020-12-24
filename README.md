@@ -8,7 +8,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+<h2 id="table-of-contents"> :book: Table of Contents</h2>
 
 <details open="open">
   <summary>📖 Table of Contents</summary>
