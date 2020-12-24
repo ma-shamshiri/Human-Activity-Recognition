@@ -277,8 +277,8 @@ All these three approaches used windowing technique to segment the raw time seri
 
   :boy: <b>Mohammad Amin Shamshiri</b> <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Email: <a>mohammadamin.shamshiri@mail.concordia.ca</a> <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub: <a href="https://github.com/ma-shamshiri">@ma-shamshiri</a> <br>
-  ![GitHub followers](https://img.shields.io/github/followers/divyabhagavathiappan?label=divyabhagavathiappan&logoColor=brown&style=social)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub:   ![GitHub followers](https://img.shields.io/github/followers/divyabhagavathiappan?label=divyabhagavathiappan&logoColor=brown&style=social)
+<a href="https://github.com/ma-shamshiri">@ma-shamshiri</a> <br>
 </p>
 
 <br>
