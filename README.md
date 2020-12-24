@@ -218,7 +218,7 @@ All these three approaches used windowing technique to segment the raw time seri
 </ul>
 </p>
 <!-- REFERENCES -->
-<h2 id="references"> :books: Refrences</h2>
+<h2 id="references"> :books: References</h2>
 
 <ul>
   <li>
