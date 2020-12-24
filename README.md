@@ -53,7 +53,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) <br>
 
 <!--This project is written in Python programming language. <br>-->
-The following open source python packages are used in this project:
+The following open source packages are used in this project:
 * Numpy
 * Pandas
 * Matplotlib
