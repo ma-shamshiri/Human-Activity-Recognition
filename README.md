@@ -219,7 +219,7 @@ All these three approaches used windowing technique to segment the raw time seri
 </p>
 
 <p align="center">
-  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="45%" height="45%">
+  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="70%" height="70%">
 </p>
 
 <!-- REFERENCES -->
