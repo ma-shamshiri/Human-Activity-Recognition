@@ -217,6 +217,11 @@ All these three approaches used windowing technique to segment the raw time seri
   </li>
 </ul>
 </p>
+
+<p align="center">
+  <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="45%" height="45%">
+</p>
+
 <!-- REFERENCES -->
 <h2 id="references"> :books: References</h2>
 
