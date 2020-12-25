@@ -163,7 +163,7 @@ The following open source packages are used in this project:
     <li><b>Topological feature extraction</b></li>
   </ol>
   
-All these three approaches used windowing technique to segment the raw time series and extract features from each segment. <br> <br>
+All these three approaches used windowing technique to segment the raw time series and extract features from each segment.
 
 <!-- PRE-PROCESSED DATA -->
 <h2 id="preprocessed-data"> :diamond_shape_with_a_dot_inside: Pre-processed data</h2>
