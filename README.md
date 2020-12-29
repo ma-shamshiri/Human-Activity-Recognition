@@ -32,6 +32,9 @@
     <li><a href="#contributors"> ➤ Contributors</a></li>
   </ol>
 </details>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
 
