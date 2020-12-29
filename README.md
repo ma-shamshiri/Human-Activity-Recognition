@@ -33,7 +33,7 @@
   </ol>
 </details>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ABOUT THE PROJECT -->
 <h2 id="about-the-project"> :pencil: About The Project</h2>
@@ -49,7 +49,7 @@
   <!--figcaption>Caption goes here</figcaption-->
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PREREQUISITES -->
 <h2 id="prerequisites"> :fork_and_knife: Prerequisites</h2>
@@ -68,7 +68,7 @@ The following open source packages are used in this project:
 * TensorFlow
 * Keras
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- :paw_prints:-->
 <!-- FOLDER STRUCTURE -->
@@ -118,7 +118,7 @@ The following open source packages are used in this project:
     ├── statistical_analysis_time_domain.py
     ├── Topological data analysis.ipynb  
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- DATASET -->
 <h2 id="dataset"> :floppy_disk: Dataset</h2>
@@ -139,7 +139,7 @@ The following open source packages are used in this project:
   <img src="images/Activity Table.png" alt="Table1: 18 Activities" width="45%" height="45%">
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ROADMAP -->
 <h2 id="roadmap"> :dart: Roadmap</h2>
@@ -162,7 +162,7 @@ The following open source packages are used in this project:
 </ol>
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PREPROCESSING -->
 <h2 id="preprocessing"> :hammer: Preprocessing</h2>
@@ -178,7 +178,7 @@ The following open source packages are used in this project:
   
 All these three approaches used windowing technique to segment the raw time series and extract features from each segment.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- PRE-PROCESSED DATA -->
 <h2 id="preprocessed-data"> :diamond_shape_with_a_dot_inside: Pre-processed data</h2>
@@ -187,7 +187,7 @@ All these three approaches used windowing technique to segment the raw time seri
   Weiss et.al used windowing technique with window size of 10 seconds to extract statistical features. They extracted 93 features out of which 43 were used to train their models. We also used the same 43 features to train our SVM and CNN. The 43 features are 1. average sensor value 2. standard deviation 3. absolute difference 4. average resultant acceleration 5. Binned distribution (10 equal sized bins per axis) and 5. time between peaks, for each axis.
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- STATISTICAL FEATURE -->
 <h2 id="statistical-feature"> :large_orange_diamond: Statistical feature</h2>
@@ -196,7 +196,7 @@ All these three approaches used windowing technique to segment the raw time seri
   For this approach, we segmented the dataset using 10 second window size (200 datapoints) with no overlapping. We decided to keep the window size same as whatWeiss et.al. applied in their study, for the sake of comparison. After segmentation, for each segment we calculated eight statistical features, namely, ‘min’, ‘max’, ‘mean’, ‘standard deviation’, ‘median’, ‘variance’, ‘zero crossing’ and ‘mean crossing’, for each axes. The zero and mean crossing features are calculated by counting the rate of when a signal passes line y=0 (if we let y-axis to be the specific measurement and x-axis to represent time) and the frequency at which the signal passes the line y = mean(signal), respectively. However, these two features did not show a significant difference between different activities, so we decided to ignore them.
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- TOPOLOGICAL FEATURE -->
 <h2 id="topological-feature"> :large_blue_diamond: Topological feature</h2>
@@ -209,7 +209,7 @@ All these three approaches used windowing technique to segment the raw time seri
 <!-- EXPERIMENTS -->
 <!--<h2 id="experiments"> :microscope: Experiments</h2>-->
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- RESULTS AND DISCUSSION -->
 <h2 id="results-and-discussion"> :mag: Results and Discussion</h2>
@@ -238,7 +238,7 @@ All these three approaches used windowing technique to segment the raw time seri
   <img src="images/Personal and Impersonal Table.png" alt="Table 3 and 4" width="75%" height="75%">
 </p>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- REFERENCES -->
 <h2 id="references"> :books: References</h2>
