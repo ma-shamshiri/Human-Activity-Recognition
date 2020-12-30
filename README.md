@@ -1,8 +1,7 @@
+<h1 align="center"> Human Activity Recognition </h1>
 <p align="center"> 
   <img src="images/Project Logo.png" alt="HAR Logo" width="90px" height="90px">
 </p>
-
-<h1 align="center"> Human Activity Recognition </h1>
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
 
 </br>
