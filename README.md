@@ -310,3 +310,6 @@ All these three approaches used windowing technique to segment the raw time seri
 
 <br>
 ✤ <i>This was the final project for the course COMP 6321 - Machine Learning (Fall 2020), at <a href="https://www.concordia.ca/">Concordia University</a><i>
+<p align="right"> 
+  <img src="images/Project Logo.png" alt="HAR Logo" width="90px" height="90px">
+</p>
