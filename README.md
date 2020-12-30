@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="right"> 
   <img src="images/Signal.gif" alt="Sample signal" width="20%" height="20%">
 </p>
 
