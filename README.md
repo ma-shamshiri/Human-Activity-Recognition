@@ -1,3 +1,7 @@
+<p align="center"> 
+  <img src="images/Signal.gif" alt="Sample signal" width="20%" height="20%">
+</p>
+
 <h1 align="center"> Human Activity Recognition </h1>
 <h3 align="center"> A Comparative Study between Different Pre-processing Approaches and Classifiers </h3>
 
