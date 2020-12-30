@@ -1,4 +1,4 @@
-<p align="right"> 
+<p align="left"> 
   <img src="images/Project Logo.png" alt="HAR Logo" width="120px" height="120px">
 </p>
 
