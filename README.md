@@ -1,5 +1,5 @@
 <p align="right"> 
-  <img src="images/Logo.png" alt="HAR Logo" width="20px" height="20px">
+  <img src="images/Logo.png" alt="HAR Logo" width="70px" height="70px">
 </p>
 
 <h1 align="center"> Human Activity Recognition </h1>
